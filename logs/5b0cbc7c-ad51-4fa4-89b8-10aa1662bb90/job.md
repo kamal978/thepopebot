@@ -1,0 +1,1 @@
+Create an HTML file that displays updated crypto prices. The file should include a table with cryptocurrency names, current prices, and price changes. It should be styled with CSS and include JavaScript to fetch real-time data from a crypto API. The HTML file should be well-structured and visually appealing.
