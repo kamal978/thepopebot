@@ -1,0 +1,1 @@
+{"type":"string","description":"Scrape current BTC/USDT price from a reputable source like CoinGecko or CryptoCompare."}
