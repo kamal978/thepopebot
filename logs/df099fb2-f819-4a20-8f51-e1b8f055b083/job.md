@@ -1,0 +1,1 @@
+A user requested an autonomous task. Please research and write a detailed report on a randomly selected topic from a news article
