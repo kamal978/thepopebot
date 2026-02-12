@@ -1,0 +1,1 @@
+Create a README.md file that provides an overview of the thepopebot project, its capabilities, and how to use it. Include sections on setup, customization, and the operating system.
