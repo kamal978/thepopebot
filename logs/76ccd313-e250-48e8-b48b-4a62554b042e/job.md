@@ -1,0 +1,1 @@
+Make the GitHub repository URL like this "https://github.com/kamal978/thepopebot/tree/job/4b374aea-6094-433b-ab6d-9f65d2b244e2"
