@@ -1,0 +1,1 @@
+Write a Python script that extracts the names of all movies directed by Quentin Tarantino and saves them to a CSV file.
